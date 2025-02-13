@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wish-infinite&label=Profile%20views&color=0e75b6&style=flat" alt="wish-infinite" /> </p>
 
-- 🔭 I’m currently working on **[Playwright Tutorials creation on Youtube](youtube.com/@WishInfinite)**
+- 🔭 I’m currently working on **[Helping viewers grow and excel through engaging content on YouTube.](youtube.com/@WishInfinite)**
 
 - 📫 How to reach me **wishinfinite01@gmail.com**
 
